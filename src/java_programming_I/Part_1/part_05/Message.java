@@ -1,4 +1,4 @@
-package java_programming_I.part_05;
+package java_programming_I.Part_1.part_05;
 
 import java.util.Scanner;
 

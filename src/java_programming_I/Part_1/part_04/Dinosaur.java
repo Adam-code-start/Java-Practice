@@ -1,4 +1,4 @@
-package java_programming_I.part_04;
+package java_programming_I.Part_1.part_04;
 
 public class Dinosaur {
     public static void main(String[] args) {

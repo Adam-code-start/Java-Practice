@@ -1,4 +1,4 @@
-package java_programming_I.part_10;
+package java_programming_I.Part_1.part_10;
 import java.util.Scanner;
 public class Story {
     public static void main(String[] args)

@@ -1,4 +1,4 @@
-package java_programming_I.part_07;
+package java_programming_I.Part_1.part_07;
 import java.util.Scanner;
 public class MessageThreeTimes {
     public static void main(String[] args)

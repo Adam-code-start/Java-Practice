@@ -1,4 +1,4 @@
-package java_programming_I.part_02;
+package java_programming_I.Part_1.part_02;
 
 public class AdaLovelace {
     public static void main(String[] args) {

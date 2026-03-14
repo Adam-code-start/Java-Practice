@@ -1,4 +1,4 @@
-package java_programming_I.part_03;
+package java_programming_I.Part_1.part_03;
 
 public class OnceUponATime {
     public static void main(String[] args)

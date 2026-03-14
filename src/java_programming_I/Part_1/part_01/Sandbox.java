@@ -1,4 +1,4 @@
-package java_programming_I.part_01;
+package java_programming_I.Part_1.part_01;
 
 public class Sandbox
 {

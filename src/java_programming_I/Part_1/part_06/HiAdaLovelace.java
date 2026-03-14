@@ -1,4 +1,4 @@
-package java_programming_I.part_06;
+package java_programming_I.Part_1.part_06;
 
 public class HiAdaLovelace {
 

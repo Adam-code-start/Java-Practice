@@ -1,5 +1,4 @@
-package java_programming_I.part_09;
-import java.sql.SQLOutput;
+package java_programming_I.Part_1.part_09;
 import java.util.Scanner;
 public class Conversation {
     public static void main()

@@ -1,4 +1,4 @@
-package java_programming_I.part_08;
+package java_programming_I.Part_1.part_08;
 import java.util.Scanner;
 public class Greeting {
     public static void main(String[] args)
