@@ -1,0 +1,15 @@
+package java_programming_I.part_09;
+import java.sql.SQLOutput;
+import java.util.Scanner;
+public class Conversation {
+    public static void main()
+    {
+        Scanner scanner = new Scanner(System.in);
+
+        System.out.println("Greetings! How are you doing?");
+        String reply = scanner.nextLine();
+        System.out.println("Oh, how interesting. Tell me more!");
+        String reply_New = scanner.nextLine();
+        System.out.println("Thanks for sharing!");
+    }
+}
